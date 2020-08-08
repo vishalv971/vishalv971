@@ -26,11 +26,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="vishalv971 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="vishalviswanathan9@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
 
-<br />
-### Programming Languages and Tools
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" />
 
----
 [twitter]: https://twitter.com/VishalVishwan16
 [linkedin]: https://www.linkedin.com/in/vishalv971/
 [instagram]: https://www.instagram.com/__vishalv97__/
