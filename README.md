@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## I am a Developer, and a Dota2 Gamer!
 - 🔭 I am currently employed at [Amadeus Labs!](https://amadeus.com/en) as a Backend Developer
-- 👯 Domain: Hotel Distribution and GDS Activities
+- 💬 Domain: Hotel Distribution and GDS Activities
 - 🌱 I am actively learning C++, Python and Apache Kafka
 - ⚡ Love to program, dota and actively look at memes
 
